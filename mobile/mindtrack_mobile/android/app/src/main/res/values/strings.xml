@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindTrack</string>
+    <string name="google_client_id">
+        823196332750-9rt1726u0gkaajtej5ec0odpgvl9semh.apps.googleusercontent.com
+    </string>
+</resources>
